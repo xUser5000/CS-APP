@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "asan_interface.h": "c"
+        "asan_interface.h": "c",
+        "stdio.h": "c"
     }
 }
